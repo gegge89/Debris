@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Debris
+Comment=Debris Application
+Exec=/usr/bin/debris
+Icon=/usr/share/icons/hicolor/128x128/apps/debris.png
+Terminal=false
+Type=Application
+Categories=Utility;
+
