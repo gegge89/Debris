@@ -1,0 +1,10 @@
+Package: debris
+Version: 0.5
+Section: utils
+Priority: optional
+Architecture: amd64
+Depends: libwebkit2gtk-4.0-37, libgtk-3-0, libglib2.0-0, libcairo2, gstreamer1.0-libav, gstreamer1.0-gtk3, libgstreamer1.0-0, libgstreamer-plugins-base1.0-0
+Maintainer: Eugenio Toppi
+Description: Debris 0.5 - A Lightweight Web-Based Utility
+ A simple application with embedded web interface support.
+

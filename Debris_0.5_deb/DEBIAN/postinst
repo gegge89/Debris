@@ -1,0 +1,6 @@
+#!/bin/sh
+mkdir -p /usr/share/fonts/debris
+cp /usr/share/debris/font/Cantarell-Regular.ttf /usr/share/fonts/debris/
+fc-cache -fv
+echo "Font installed successfully!"
+
