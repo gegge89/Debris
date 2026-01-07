@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16.0px"
+   height="16.0px"
+   viewBox="0 0 16.0 16.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="bookmark.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:export-filename="../../../../../../Comet_0.5/ICON/theme_dark/privacy_bookmarks36.png"
+   inkscape:export-xdpi="216"
+   inkscape:export-ydpi="216"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="32"
+     inkscape:cx="11.265625"
+     inkscape:cy="7.0625"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3">
+    <inkscape:grid
+       type="xygrid"
+       id="grid20" />
+  </sodipodi:namedview>
+  <defs
+     id="defs9" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="fill:none" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 3">
+    <path
+       sodipodi:type="star"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.45677;stroke-dasharray:none;stroke-opacity:1"
+       id="path2965"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="4.703052"
+       sodipodi:cy="4.3540907"
+       sodipodi:r1="6.5878582"
+       sodipodi:r2="3.2939291"
+       sodipodi:arg1="1.0471976"
+       sodipodi:arg2="1.6755161"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 7.9969809,10.059343 4.3587426,7.6299753 0.29491425,9.2498232 1.4811032,5.038937 -1.3152558,1.6745671 3.0560875,1.5014644 5.3916711,-2.1976785 6.9071209,1.9062244 11.14695,2.9843983 7.712206,5.6938524 Z"
+       inkscape:transform-center-x="-0.0018682751"
+       inkscape:transform-center-y="-0.63394623"
+       transform="matrix(1.0051126,-0.10471891,0.10471891,1.0051126,2.8092444,4.9072742)"
+       inkscape:export-filename="../24/bookmarks.png"
+       inkscape:export-xdpi="85.563438"
+       inkscape:export-ydpi="85.563438" />
+  </g>
+</svg>
